@@ -3,7 +3,7 @@
 
 
 # Introduction
-For this project, we analyzed data from the Survey of Consumer Finances, which is sponsored by the Federal Reserve in the United States. The survey provides financial, demographic, and opinion information for American households. Our main objective was to create a model that would help us divide households into subgroups.
+For this project, we analyzed data from [the Survey of Consumer Finances in 2019](https://www.federalreserve.gov/econres/scfindex.htm), which is sponsored by the Federal Reserve in the United States. The survey provides financial, demographic, and opinion information for American households. Our main objective was to create a model that would help us divide households into subgroups.
 
 To achieve our goal, we first loaded the dataset and performed exploratory data analysis. We investigated characteristics such as age, race, income, assets, and education, with a focus on households that are defined as business owners. 
 
